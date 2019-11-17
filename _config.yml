@@ -6,9 +6,9 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Kilean Lucas
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  bio: "I am currently a 5th year PhD Student in Biomedical Engineering at the University of Rochester. My thesis project is the development of an early cancer detection platform using silicon nanomembranes. "
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: #username
