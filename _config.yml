@@ -9,12 +9,12 @@ owner:
   name: Kilean Lucas
   avatar: bio-photo.jpg
   bio: "I am currently a 5th year PhD Student in Biomedical Engineering at the University of Rochester. My thesis project is the development of an early cancer detection platform using silicon nanomembranes. "
-  email: #kilean.lucas@gmail.com
+  email: kilean.lucas@gmail.com
   # Do not include the @ symbol in your Twitter username
-  twitter: #kilean_lucas
+  twitter: kilean_lucas
   linkedin: #username
-  github: #kilean-lucas
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  github: kilean-lucas
+  orcid: 0000-0002-0058-9850
   researchgate: #username
   mendeley: #username
   google:
@@ -23,7 +23,7 @@ owner:
     verify:
     scholar: #id
   facebook: #username
-  instagram: #kileanlucasofficial
+  instagram: kileanlucasofficial
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
   xing: #username
